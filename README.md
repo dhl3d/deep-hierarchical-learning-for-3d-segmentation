@@ -1,6 +1,6 @@
 <img src="https://dhl3d.github.io/images/dhl3d_logo.png" height="70px" align="left">
 
-# Deep Hierarchical Learning for 3D Segmentation
+# Deep Hierarchical Learning for 3D Semantic Segmentation
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fdhl3d%2Fdhl3dgithubio.json&label=visitors&color=blue) [![Static Badge](https://img.shields.io/badge/Project%20Page-blue?logo=Google%20Chrome&logoColor=white)](https://dhl3d.github.io/)
 
